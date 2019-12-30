@@ -1,3 +1,3 @@
-# Strapi application
+npm install
 
-A quick description of your strapi application
+npm start
